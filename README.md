@@ -1,4 +1,4 @@
-# Alfabeto Hacker o Letras Hacker Para usar enquanto esqueve no teclado!
+# Alfabeto Hacker ou Letras Hacker Para usar enquanto escreve no teclado! ðĭⓥιя┬ă-§ξ čø∑ Є§§Э Þя☼Ğ®ⱥღª.
 
 This project was made because of the difficulty I had to find something to write in cool letters, so I had this idea to make this program and share with you, all ideas are welcome.
 Everyone is free to edit and distribute them as they please
