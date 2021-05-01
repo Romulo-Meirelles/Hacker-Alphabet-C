@@ -1,9 +1,0 @@
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\bin\Debug\Letras Hacker.exe
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\bin\Debug\Letras Hacker.pdb
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\bin\Debug\Letras Hacker.xml
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\obj\x86\Debug\Letras_Hacker.Resources.resources
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\obj\x86\Debug\Letras Hacker.vbproj.GenerateResource.Cache
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\obj\x86\Debug\Letras Hacker.exe
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\obj\x86\Debug\Letras Hacker.xml
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\obj\x86\Debug\Letras Hacker.pdb
-C:\Users\Romulo Meirelles\documents\visual studio 2010\Projects\Letras Hacker\Letras Hacker\obj\x86\Debug\Letras_Hacker.Letras_Hacker.resources
