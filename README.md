@@ -12,6 +12,6 @@ Muito bom para utilização em forums ou interação em chats.
 - Seguro de Utilizar.
 <br>
 
-<img src="/Pictures/Hacker_Alphabet.png" width="1024" heigth="768" align="middle">
-<img src="/Pictures/Hacker_Alphabet_Tray.png" width="1024" heigth="768" align="middle">
-<img src="/Pictures/Hacker_Alphabet_Note.png" width="1024" heigth="768" align="middle">
+<img src="/Pictures/Hacker_Alphabet.png" width="500" heigth="300" align="middle">
+<img src="/Pictures/Hacker_Alphabet_Tray.png" width="500" heigth="300" align="middle">
+<img src="/Pictures/Hacker_Alphabet_Note.png" width="500" heigth="300" align="middle">
