@@ -1,7 +1,7 @@
 # Alfabeto Hacker ou Letras Hacker Para usar enquanto escreve no teclado! ðĭⓥιя┬ă-§ξ čø∑ Є§§Э Þя☼Ğ®ⱥღª.
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Romulo-Meirelles) <br>
-Alfabeto Hacker para escrever com letras diferenciadas mas de fácil entendimento. "Divirta-se com esse programa!"<br>
-Muito bom para utilização em forums ou interação em chats.
+Alfabeto Hacker para escrever com letras diferenciadas de fácil entendimento. "Divirta-se com esse programa!"<br>
+Muito bom para utilização em forums, Twitter, FaceBook, YouTube ou interação em chats.
 
 ## Características
 
