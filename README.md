@@ -12,7 +12,6 @@ Muito bom para utilização em forums ou interação em chats.
 - Seguro de Utilizar.
 <br>
 
-<img src="/Images/Hacker%20Alphabet.gif" width="1000" heigth="1000" align="middle">
-<img src="/Images/Hacker_Alphabet_01.png" width="1000" heigth="1000" align="middle">
-<img src="/Images/Hacker_Alphabet_02.png" width="1000" heigth="1000" align="middle">
-<img src="/Images/Hacker_Alphabet_03.png" width="1000" heigth="1000" align="middle">
+<img src="/Pictures/Hacker_Alphabet.png" width="1024" heigth="768" align="middle">
+<img src="/Pictures/Hacker_Alphabet_Tray.png" width="1024" heigth="768" align="middle">
+<img src="/Pictures/Hacker_Alphabet_Note.png" width="1024" heigth="768" align="middle">
